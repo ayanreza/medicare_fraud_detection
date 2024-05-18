@@ -1,4 +1,4 @@
-# Medicare 
+# Medicare Fraud Detection using Isolation Forests
 
 ## Project Overview
 This project aims to identify anomalous or fraudulent transactions within Medicare payment data. By employing machine learning models, specifically the Isolation Forest algorithm, the project seeks to detect outliers that may indicate fraud.
