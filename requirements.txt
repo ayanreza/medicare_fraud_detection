@@ -1,0 +1,7 @@
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+protobuf==5.26.1
+pyspark==3.5.1
+seaborn==0.13.2
+synapse==2.169.0
